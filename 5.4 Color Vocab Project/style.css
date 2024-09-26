@@ -1,0 +1,35 @@
+.color-title{
+    font-weight: normal;
+}
+
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+#orange{
+    color: orange;
+}
+
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.roboto-condensed-<npc> {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <250px>;
+    font-style: normal;
+  }

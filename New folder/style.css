@@ -1,0 +1,69 @@
+.box{
+    width: 200px;
+    height:200cap;
+    background-color: rgb(72, 119, 207);
+    position: absolute;
+    top:0;
+    left:0;
+    text-align: center;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin:auto;
+    border-radius: 30px;
+    position: absolute;
+    left:18px;
+    top:8px;
+}
+h1{
+    color: white;
+    font-weight: 50px;
+    margin: auto;
+    position: absolute;
+    top:15px;
+    left:70px;
+    font-size: 20px;
+
+}
+
+.dashboard{
+    border-top:solid 0.1px rgb(100, 97, 97);
+    border-bottom:solid 0.1px rgb(100, 97, 97);
+    width: 200px;
+    margin:auto;
+    position: absolute;
+    top:90px;
+    color:white;
+    float: left;
+}
+.icon1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    position: absolute;
+    left:18px;
+    top:8px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.interface{
+    color: rgb(100, 97, 97);
+    font-size: 12px;
+    font-weight: 200px;
+    margin: auto;
+    position: absolute;
+    top:142px;
+    left:px;
+    border-bottom:solid 0.1px rgb(100, 97, 97);
+    width: 200px;
+    height: 250px;
+}
+.i{
+    position: absolute;
+    left: 20px;
+
+}

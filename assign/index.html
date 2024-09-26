@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <style>
+        #box {
+        
+        position: relative;
+        }
+        </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>jQuery Basic</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    
+    $("#cal").click(function(){
+    let num = $("#num").val();
+    $("#result").text(3.14*num*num);
+    })
+
+    
+});
+</script>
+</head>
+<body>
+<p id ="result">คำตอบ</p>
+<input type="text" id="num">
+<button id="cal">คำนวณ</button>
+</body>
+</html>
